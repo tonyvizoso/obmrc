@@ -21,7 +21,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
   </head>
-  <body id="home">
+  <body id="clinical-trials">
     <section class="container">
       <div class="content row">
       <section class="main col col-lg-8">
