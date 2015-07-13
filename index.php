@@ -24,6 +24,9 @@
   <body id="home">
     <section class="container">
       <div class="content row">
+      <section class="header col col-lg-12">
+        <?php include "_/components/php/header.php" ?>
+      </section><!-- header -->
       <section class="main col col-lg-8">
         
 
