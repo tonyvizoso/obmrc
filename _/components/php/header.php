@@ -73,9 +73,9 @@
 					</li><!--Contact dropdown menu-->
 
 					<li class="dropdown">
-						<a href="career-opportunities.php" class="dropdown-toggle" data-toggle="dropdown">Careers <span class="caret"></a>
+						<a href="careers.php" class="dropdown-toggle" data-toggle="dropdown">Career Opportunities <span class="caret"></a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-								<li><a tabindex="-1" href="careers.php">Career Opportunity</a></li>
+								<li><a tabindex="-1" href="careers.php">Career Opportunities</a></li>
 								<li><a tabindex="-1" href="researchers.php">Our Investigators</a></li>
 								<li><a tabindex="-1" href="investigators.php">Become an Investigator</a></li>
 							</ul>

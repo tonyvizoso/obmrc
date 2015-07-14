@@ -24,6 +24,10 @@
   <body id="career-opportunities">
     <section class="container">
       <div class="content row">
+      <section class="header col col-lg-12">
+          <?php include "_/components/php/header.php" ?>
+          
+        </section><!-- header -->
       <section class="main col col-lg-8">
       
         
@@ -36,6 +40,10 @@
         
       </div><!-- content -->
     </section><!-- container -->
+      <section class="footer col col-lg-12">
+          <?php include "_/components/php/footer.php" ?>
+          
+    </section><!-- footer -->
 
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>

@@ -1607,6 +1607,24 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -1647,357 +1665,41 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/images\/1.jpg": {
-		"fileType": 16384,
+	"\/about.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/1.jpg",
-		"outputAbbreviatedPath": "\/images\/1.jpg",
+		"inputAbbreviatedPath": "\/about.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/images\/2.jpg": {
-		"fileType": 16384,
+	"\/career-opportunities.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/2.jpg",
-		"outputAbbreviatedPath": "\/images\/2.jpg",
+		"inputAbbreviatedPath": "\/career-opportunities.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/images\/286_westward_dr-miami_springs-fl-33166.png": {
-		"fileType": 32768,
+	"\/clinical-trials.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/286_westward_dr-miami_springs-fl-33166.png",
-		"outputAbbreviatedPath": "\/images\/286_westward_dr-miami_springs-fl-33166.png",
+		"inputAbbreviatedPath": "\/clinical-trials.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/images\/80x80.jpg": {
-		"fileType": 16384,
+	"\/contact.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/80x80.jpg",
-		"outputAbbreviatedPath": "\/images\/80x80.jpg",
+		"inputAbbreviatedPath": "\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/camera_skins.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24198,
-		"inputAbbreviatedPath": "\/images\/camera\/camera_skins.png",
-		"outputAbbreviatedPath": "\/images\/camera\/camera_skins.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 937,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay1.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay10.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 923,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay10.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay10.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 935,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay2.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 938,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay3.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay4.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 924,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay4.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay4.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 924,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay5.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay6.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 959,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay6.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay6.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay7.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 97,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay7.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay7.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay8.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 948,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay8.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay8.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/patterns\/overlay9.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 926,
-		"inputAbbreviatedPath": "\/images\/camera\/patterns\/overlay9.png",
-		"outputAbbreviatedPath": "\/images\/camera\/patterns\/overlay9.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/big_bunny_fake.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 121104,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/big_bunny_fake.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/big_bunny_fake.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/bridge.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 261677,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/bridge.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/bridge.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/leaf.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 178309,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/leaf.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/leaf.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/road.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 259821,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/road.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/road.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/sea.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 107620,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/sea.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/sea.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/shelter.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 357930,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/shelter.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/shelter.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/big_bunny_fake.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5089,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/big_bunny_fake.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/big_bunny_fake.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/bridge.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4744,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/bridge.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/bridge.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/header_bg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 986,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/header_bg.png",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/header_bg.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/leaf.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5672,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/leaf.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/leaf.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/road.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3957,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/road.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/road.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/sea.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3151,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/sea.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/sea.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/shelter.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5141,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/shelter.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/shelter.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/thumbs\/tree.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5007,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/tree.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/thumbs\/tree.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/camera\/slides\/tree.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 298017,
-		"inputAbbreviatedPath": "\/images\/camera\/slides\/tree.jpg",
-		"outputAbbreviatedPath": "\/images\/camera\/slides\/tree.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/campaigns\/adm-2014-banner-728x90.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 37550,
-		"inputAbbreviatedPath": "\/images\/campaigns\/adm-2014-banner-728x90.jpg",
-		"outputAbbreviatedPath": "\/images\/campaigns\/adm-2014-banner-728x90.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/campaigns\/american-diabetes-month-banner1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 63635,
-		"inputAbbreviatedPath": "\/images\/campaigns\/american-diabetes-month-banner1.jpg",
-		"outputAbbreviatedPath": "\/images\/campaigns\/american-diabetes-month-banner1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
 	"\/images\/campaigns\/american-diabetes-month.jpg": {
 		"fileType": 16384,
@@ -2054,17 +1756,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/Carousel_Placeholder.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Carousel_Placeholder.png",
-		"outputAbbreviatedPath": "\/images\/Carousel_Placeholder.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/citi-logo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2087,17 +1778,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/drugs-com-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/drugs-com-logo.png",
-		"outputAbbreviatedPath": "\/images\/drugs-com-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/fingerprint.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2105,28 +1785,6 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/fingerprint.png",
 		"outputAbbreviatedPath": "\/images\/fingerprint.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/fotorama.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/fotorama.png",
-		"outputAbbreviatedPath": "\/images\/fotorama.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/fotorama@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/fotorama@2x.png",
-		"outputAbbreviatedPath": "\/images\/fotorama@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4903,6 +4561,138 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logo\/80x80.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/80x80.jpg",
+		"outputAbbreviatedPath": "\/images\/logo\/80x80.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/drugs-com-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/drugs-com-logo.png",
+		"outputAbbreviatedPath": "\/images\/logo\/drugs-com-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ob-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ob-icon.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ob-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-reseach-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-reseach-logo.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-reseach-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-research-center-holidays-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-center-holidays-logo.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-center-holidays-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-research-logo-diabetes-month.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo-diabetes-month.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo-diabetes-month.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-research-logo-pink-ribbon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo-pink-ribbon.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo-pink-ribbon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-research-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-research-logo_reversed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo_reversed.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-logo_reversed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue-medical-research-signatures-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-signatures-logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue-medical-research-signatures-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/ocean-blue_medical-research_slogan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/ocean-blue_medical-research_slogan.png",
+		"outputAbbreviatedPath": "\/images\/logo\/ocean-blue_medical-research_slogan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/webmd_logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/logo\/webmd_logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo\/webmd_logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/miami-expressways\/dolphin836.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4991,50 +4781,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/ob-cover-you-tube.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ob-cover-you-tube.jpg",
-		"outputAbbreviatedPath": "\/images\/ob-cover-you-tube.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ob-cover.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ob-cover.jpg",
-		"outputAbbreviatedPath": "\/images\/ob-cover.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ob-cover.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ob-cover.png",
-		"outputAbbreviatedPath": "\/images\/ob-cover.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ob-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ob-icon.png",
-		"outputAbbreviatedPath": "\/images\/ob-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/obmrc-13-researchers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5112,50 +4858,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/ocean-blue-medical-center-april-tulips.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-center-april-tulips.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-center-april-tulips.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-center-april.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-center-april.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-center-april.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-center-march.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-center-march.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-center-march.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-reseach-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-reseach-logo.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-reseach-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/ocean-blue-medical-research-center-brochure-image.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5163,17 +4865,6 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-center-brochure-image.png",
 		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-center-brochure-image.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-research-center-holidays-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-center-holidays-logo.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-center-holidays-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5189,61 +4880,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/ocean-blue-medical-research-logo-diabetes-month.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo-diabetes-month.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo-diabetes-month.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-research-logo-pink-ribbon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo-pink-ribbon.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo-pink-ribbon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-research-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-research-logo_reversed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo_reversed.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-logo_reversed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-research-rsvp.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-rsvp.jpg",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-rsvp.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/ocean-blue-medical-research-rsvp.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5251,28 +4887,6 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-rsvp.png",
 		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-rsvp.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue-medical-research-signatures-logo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue-medical-research-signatures-logo.jpg",
-		"outputAbbreviatedPath": "\/images\/ocean-blue-medical-research-signatures-logo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ocean-blue_medical-research_slogan.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/ocean-blue_medical-research_slogan.png",
-		"outputAbbreviatedPath": "\/images\/ocean-blue_medical-research_slogan.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5343,6 +4957,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/slides\/obmedicalresearch_01_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3377,
+		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_01_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_01_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/slides\/obmedicalresearch_02.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5350,6 +4975,17 @@
 		"initialSize": 28753,
 		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_02.jpg",
 		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/obmedicalresearch_02_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2660,
+		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_02_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_02_tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5365,6 +5001,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/slides\/obmedicalresearch_03_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3642,
+		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_03_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_03_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/slides\/obmedicalresearch_04.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5372,6 +5019,17 @@
 		"initialSize": 36910,
 		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_04.jpg",
 		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/obmedicalresearch_04_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2877,
+		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_04_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_04_tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5387,6 +5045,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/slides\/obmedicalresearch_05_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3551,
+		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_05_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_05_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/slides\/obmedicalresearch_06.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5398,79 +5067,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/slides\/thumbs\/obmedicalresearch_01s.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3377,
-		"inputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_01s.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_01s.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/thumbs\/obmedicalresearch_02s.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2660,
-		"inputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_02s.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_02s.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/thumbs\/obmedicalresearch_03s.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3642,
-		"inputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_03s.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_03s.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/thumbs\/obmedicalresearch_04s.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2877,
-		"inputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_04s.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_04s.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/thumbs\/obmedicalresearch_05s.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3551,
-		"inputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_05s.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_05s.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/thumbs\/obmedicalresearch_06s.jpg": {
+	"\/images\/slides\/obmedicalresearch_06_tn.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2292,
-		"inputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_06s.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/thumbs\/obmedicalresearch_06s.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/staff-member.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/staff-member.jpg",
-		"outputAbbreviatedPath": "\/images\/staff-member.jpg",
+		"inputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_06_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/obmedicalresearch_06_tn.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5541,17 +5144,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/staff\/gisel-gongora.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 213786,
-		"inputAbbreviatedPath": "\/images\/staff\/gisel-gongora.jpg",
-		"outputAbbreviatedPath": "\/images\/staff\/gisel-gongora.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/staff\/guari-mascaro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5596,28 +5188,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/staff\/malu.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38761,
-		"inputAbbreviatedPath": "\/images\/staff\/malu.jpg",
-		"outputAbbreviatedPath": "\/images\/staff\/malu.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/staff\/marisol-delgado.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 45360,
-		"inputAbbreviatedPath": "\/images\/staff\/marisol-delgado.jpg",
-		"outputAbbreviatedPath": "\/images\/staff\/marisol-delgado.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/staff\/nailan_estrada.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5636,6 +5206,171 @@
 		"initialSize": 149091,
 		"inputAbbreviatedPath": "\/images\/staff\/thomas-f-sevilla.jpg",
 		"outputAbbreviatedPath": "\/images\/staff\/thomas-f-sevilla.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/alfredo-lagomasino.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9169,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/alfredo-lagomasino.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/alfredo-lagomasino.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/antonio-e-terrelonge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8241,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/antonio-e-terrelonge.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/antonio-e-terrelonge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/ashley-rivera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10988,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/ashley-rivera.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/ashley-rivera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/carmen-jimenez.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9045,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/carmen-jimenez.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/carmen-jimenez.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/eudes_herrera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9280,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/eudes_herrera.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/eudes_herrera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/ever-varela.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8233,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/ever-varela.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/ever-varela.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/guari-mascaro.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7585,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/guari-mascaro.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/guari-mascaro.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/joli-martinez.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10765,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/joli-martinez.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/joli-martinez.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/julio-mauri.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8450,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/julio-mauri.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/julio-mauri.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/malu-bienes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8048,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/malu-bienes.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/malu-bienes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/nailan_estrada.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10029,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/nailan_estrada.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/nailan_estrada.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/thomas-f-sevilla.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8628,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/thomas-f-sevilla.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/thomas-f-sevilla.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/tony-vizoso.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8850,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/tony-vizoso.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/tony-vizoso.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/yanet-r-ferrera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9958,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/yanet-r-ferrera.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/yanet-r-ferrera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff\/thumbanails\/yelamis-cartaya.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8673,
+		"inputAbbreviatedPath": "\/images\/staff\/thumbanails\/yelamis-cartaya.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/thumbanails\/yelamis-cartaya.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6025,176 +5760,47 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/Unknown-1.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-1.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-1.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-1.png",
-		"outputAbbreviatedPath": "\/images\/Unknown-1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-2.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-2.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-2.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-2.png",
-		"outputAbbreviatedPath": "\/images\/Unknown-2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-3.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-3.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-3.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-3.png",
-		"outputAbbreviatedPath": "\/images\/Unknown-3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-4.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-4.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-4.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-4.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-4.png",
-		"outputAbbreviatedPath": "\/images\/Unknown-4.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-5.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-5.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-5.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-5.png",
-		"outputAbbreviatedPath": "\/images\/Unknown-5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-6.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-6.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-6.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown-7.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown-7.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown-7.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown.jpeg",
-		"outputAbbreviatedPath": "\/images\/Unknown.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/Unknown.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/Unknown.png",
-		"outputAbbreviatedPath": "\/images\/Unknown.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/webmd_logo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/webmd_logo.jpg",
-		"outputAbbreviatedPath": "\/images\/webmd_logo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/resources.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/resources.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/services.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/services.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sponsors.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sponsors.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/volunteers.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/volunteers.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
