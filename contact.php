@@ -22,26 +22,18 @@
     <link href="_/css/mystyles.css" rel="stylesheet">
   </head>
   <body id="contact">
-    <section class="container">
+ <section class="container">
       <div class="content row">
-      <section class="header col col-lg-12">
+        <section class="col-lg-12">
           <?php include "_/components/php/header.php" ?>
-          
         </section><!-- header -->
-      <section class="main col col-lg-8">
-        
-
-      </section><!-- main -->
-       <section class="sidebar col col-lg-4">
-        
-        
-      </section><!-- sidebar -->
-        
+          <section class="main col col-lg-8">
+          </section><!-- main -->
+          <section class="sidebar col col-lg-4">
+          </section><!-- sidebar -->
       </div><!-- content -->
-    </section><!-- container -->
-      <section class="footer col col-lg-12">
           <?php include "_/components/php/footer.php" ?>
-    </section><!-- footer -->
+    </section><!-- container -->
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>

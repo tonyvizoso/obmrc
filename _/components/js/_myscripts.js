@@ -10,6 +10,14 @@ $(function() {
 	$("#resources a:contains('Resources')").parent().addClass('active');
 	$("#contact a:contains('Contact Us')").parent().addClass('active');
 	$("#career-opportunities a:contains('Career Opportunities')").parent().addClass('active');
+	// highligths submenus
+	$("#trials-overview a:contains('Trials Overview')").parent().addClass('active');
+	$("#current-trials a:contains('Current Trials')").parent().addClass('active');
+	$("#inform-concern a:contains('Inform Concern')").parent().addClass('active');
+
+
+
+
 
 	// make menu dropdown automatically
 	$('ul.nav li.dropdown').hover(function() {
