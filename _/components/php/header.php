@@ -19,9 +19,9 @@
 					<li><a href="index.php">Home</a></li>
                     
                     <li class="dropdown">
-						<a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
+						<a href="../about.php" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-								<li><a tabindex="-1" href="ceo.php">Our CEO</a></li>
+							  <li><a tabindex="-1" href="ceo.php">Our CEO</a></li>
 								<li><a tabindex="-1" href="staff.php">Our Staff</a></li>
 							</ul>
 					</li><!-- About US dropdown menu -->
