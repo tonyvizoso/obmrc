@@ -28,6 +28,18 @@
           <?php include "_/components/php/header.php" ?>
         </section><!-- header -->
           <section class="main col col-lg-8">
+            <h3 class="orange bold uppercase">About Us</h3>
+<p><span class="bold">Ocean Blue Medical Research Center</span> is a multi-specialty clinical research center who conducts clinical trials from Phase I to Phase IV. These studies involve, among many other, therapeutic areas such as: Cardiology, Neurology, Psychiatry, Internal Medicine, Dermatology, Endocrinology, Infectious disease, Rheumatology and Women's health.</p>
+<div class="newspaper2cols">
+<h4 class="blue uppercase">Our Mission</h4>
+<p>Provide our sponsors with competent and professional care to develop clinical research with excellence. Our core is to deliver clinical research data on a timely, accurate and efficient manner to comply with protocol adherence and guidelines.</p>
+<h4 class="blue uppercase">Vision</h4>
+<p>We strive in becoming a highly recognized clinical research center and improve people's health through the conduction of studies in accordance to the highest standard of excellence for our sponsors and CROs.</p>
+<h4 class="blue uppercase">Expertise</h4>
+<p>Our principals and investigator have more than 40 years of combined experience working specifically in the health care area as well as realizing clinical trials, either for pharmaceuticals, cosmetics or new technological advances and its direct incidence in human health.</p>
+<h4 class="blue uppercase">Our Advantages</h4>
+<p>Our mission and experience combined with a great location, proper facility and a great team of specialists and superb healthcare professionals, have put <span class="bold">Ocean Blue Medical Research Center</span> at the top of all other research centers across South Florida.</p>
+</div>
           </section><!-- main -->
           <section class="sidebar col col-lg-4">
           </section><!-- sidebar -->
