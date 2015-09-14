@@ -1,15 +1,31 @@
 <div class="content row">
 	<div class="col-lg-12">
 		<header class="clearfix">
-			<section id="branding">
-				<a href="index.php"><img src="images/logo/ocean-blue-medical-research-logo.png" alt="Ocean Blue Medical Research Center logo"></a>
-			</section><!-- branding -->
-			
-			<section class="navbar">
-				<ul class="nav navbar-nav">
+			<section id="obmrclogo">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
+			        <span class="sr-only">Toggle navigation</span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			    </button><!-- Collapsed Button -->
+			<a href="index.php"><img src="images/logo/ocean-blue-medical-research-logo.png" alt="Ocean Blue Medical Research Center logo"></a>
+				<section id="header-contact" class="float-r">
+					<?php include "_/components/php/header-contact.php" ?>
+				</section><!-- header-contact -->
+			</sectiion><!-- obmrclogo -->
+			<section class="navbar uppercase">
+				<div class="collapse navbar-collapse" id="collapse">
+					<ul class="nav navbar-nav">
 					<li><a href="index.php">Home</a></li>
-					<li><a href="about.php">About</a></li>
-					
+                    
+                    <li class="dropdown">
+						<a href="about.php" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li><a tabindex="-1" href="ceo.php">Our CEO</a></li>
+								<li><a tabindex="-1" href="staff.php">Our Staff</a></li>
+							</ul>
+					</li><!-- About US dropdown menu -->
+
 					<li class="dropdown">
 						<a href="clinical-trials.php" class="dropdown-toggle" data-toggle="dropdown">Clinical Trials <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
@@ -73,15 +89,15 @@
 					</li><!--Contact dropdown menu-->
 
 					<li class="dropdown">
-						<a href="careers.php" class="dropdown-toggle" data-toggle="dropdown">Career Opportunities <span class="caret"></a>
+						<a href="careers.php" class="dropdown-toggle" data-toggle="dropdown">Careers <span class="caret"></a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-								<li><a tabindex="-1" href="careers.php">Career Opportunities</a></li>
-								<li><a tabindex="-1" href="researchers.php">Our Investigators</a></li>
-								<li><a tabindex="-1" href="investigators.php">Become an Investigator</a></li>
-							</ul>
+							<li><a tabindex="-1" href="careers.php">Career Opportunities</a></li>
+							<li><a tabindex="-1" href="researchers.php">Our Investigators</a></li>
+							<li><a tabindex="-1" href="investigators.php">Become an Investigator</a></li>
+						</ul>
 					</li>
 				</ul><!-- nav -->
-			
+			</div><!-- collapse navbar-collapse -->
 			</section><!-- navbar -->
 		</header><!-- header -->
 	</div><!-- column -->
