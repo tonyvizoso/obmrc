@@ -1,0 +1,171 @@
+/* ob- styles*/
+
+/* Font Family*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,800,700);
+
+/* ALIGN */
+
+.justify{text-align:justify;}
+.left{text-align:left;}
+.center{text-align:center;}
+.right{text-align:right;}
+
+/* Text Transforms */
+.uppercase {text-transform: uppercase;}
+.bold {font-weight: bold;}
+.italic {font-style: italic;}
+
+/* Colors */
+
+.gray{color:#808284;}
+.light-gray{color:#E6E7E8;}
+.gray{color:#808284;}
+.light-blue{color:#00A7E0;}
+.blue{color:#0082BE;}
+.orange{color:#FF9900;}
+.red{color:#A80505;}
+.pink {color: #B01760;}
+.white{color: #FFFFFF}
+
+/* Gradient */
+
+.grad {
+  background: -webkit-linear-gradient(#00A7E0, #0082BE); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#00A7E0, #0082BE); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#00A7E0blue, #0082BE); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#00A7E0, #0082BE); /* Standard syntax */
+}
+
+/* Columns */
+
+.newspaper2cols {
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	-moz-column-count: 2; /* Firefox */
+	column-count: 2;
+	-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+	-moz-column-gap: 40px; /* Firefox */
+	column-gap: 40px;
+	-webkit-column-rule: 1px outset #FF9900; /* Chrome, Safari, Opera */
+	-moz-column-rule: 1px outset #FF9900; /* Firefox */
+	column-rule: 1px outset #FF9900;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+.newspaper3cols {
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	-moz-column-count: 3; /* Firefox */
+	column-count: 3;
+	-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+	-moz-column-gap: 40px; /* Firefox */
+	column-gap: 40px;
+	-webkit-column-rule: 1px outset #FF9900; /* Chrome, Safari, Opera */
+	-moz-column-rule: 1px outset #FF9900; /* Firefox */
+	column-rule: 1px outset #FF9900;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+.newspaper4cols {
+	-webkit-column-count: 4; /* Chrome, Safari, Opera */
+	-moz-column-count: 4; /* Firefox */
+	column-count: 4;
+	-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+	-moz-column-gap: 40px; /* Firefox */
+	column-gap: 40px;
+	-webkit-column-rule: 1px outset #FF9900; /* Chrome, Safari, Opera */
+	-moz-column-rule: 1px outset #FF9900; /* Firefox */
+	column-rule: 1px outset #FF9900;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+
+/* Image */
+img{padding-top: 4px;padding-bottom: 8px;}
+
+/* From OBMRC website */
+
+body {
+	font-family: Open Sans, sans-serif;
+	text-align: justify;
+	font-style: normal;
+	font-size: 14px;
+	color: #808284;
+	position: relative;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Open Sans, sans-serif;
+	font-weight: 100;
+	margin: 0;
+
+}
+a:link {color: #0082BE;}
+a:visited {text-decoration: none; color: #0082BE;}
+a:hover {text-decoration: underline; color: #A80505;}
+a:active {text-decoration: none; color: #0082BE;}
+
+#obmrclogo {margin-top: 5px; margin-bottom: 6px; margin-left: 5px; margin-right: 5px; }
+
+#address {margin: 4px;}
+
+/* Formating */
+.spacer{height: 8px;}
+.navbar-background{background-color: yellow;}
+.dividerTop{
+	border-top: 12px solid #00A7E0;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.dividerBottom{
+	border-top: 6px solid #00A7E0;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.padding {padding: 8px;}
+.img {padding:4px;}
+.radius {border-radius: 4px;}
+.page{padding: 50px 0;}
+.page h2{text-align: center; margin-bottom: 30px;}
+
+/* elements */
+.icon-bar {color: #ffffff; border-color: #0082BE; background-color: #0082BE;}
+.navbar-toggle:hover {background-color: #0082BE;}
+.navbar-toggle:hover .icon-bar {background-color: white;}
+.navbar-toggle:hover {background-color: #0082BE;}
+.navbar-toggle:hover .icon-bar {background-color: white;}
+
+
+.buttons  {margin-top: 20px; margin-bottom: 10px;}
+
+#footer {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #0082BE;
+	clear: both;
+	font-size: 10px;
+}
+#footer a {color: #FFFFFF;}
+#footer a:hover {color: #FF9900;}
+
+
+/* Captions */
+.figr {display: block; margin-left: 10px; margin-bottom: 4px; float: right;}
+.figl {display: block; margin-right: 4px; margin-bottom: 10px; float: left;}
+
+/* Floats */
+.float-l{float: left;}
+.float-r{float: right;}
+
+/* Clear */
+.clear {clear:both;}
+.clear-l {clear:left;}
+.clear-r {clear:right;}
+
+.bkd-lgray {background-color: #E6E7E8;	}
+.bkd-lblue {background-color: #ebf5f6;}
