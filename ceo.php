@@ -28,7 +28,7 @@
           <?php include "_/components/php/header.php" ?>
         </section><!-- header -->
           <section class="main col col-lg-4">
-              <?php include "page_content/ceo-words" ?>
+              <?php include "page_content/ceo-words.php" ?>
             <div class="padding"></div>
           </section><!-- main -->
           <section class="sidebar col col-lg-8">
