@@ -4,10 +4,6 @@
 <blockquote class="center"><em>"Set excellence performance as your standard and strive to achieve it each day".</em> Brian Tracy</blockquote>
 
 <div class="newspaper3cols justify">
-<figure>
-<img src="images/staff/yanet-r-ferrera_small.jpg">
-<figcaption class="center"><br>Yanet R. Ferrera, CEO<br><em>Ocean Blue Medical Research Center</em></figcaption>
-</figure>
 
 <p>When we hear our C.E.O., Yanet R. Ferrera talking about the beginning, growth and projections, we immediately realize that  the success of a business comes of the hands of a great discipline and dedication.</p>
 <p>Even more, to build it from scratch takes courage and a lot of sacrifice.</p>
