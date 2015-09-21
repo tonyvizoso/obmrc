@@ -1,7 +1,9 @@
 <h2 class="orange uppercase">Yanet R. Ferrera</h2>
+<div class="padding"></div>
 <h4 class="blue uppercase">An entrepreneur of the new age</h4>
+<div class="padding"></div>
 
-<blockquote class="center"><em>"Set excellence performance as your standard and strive to achieve it each day".</em> Brian Tracy</blockquote>
+<blockquote class="center"><em>"Set excellence performance as your standard and strive to achieve it each day".</em><br><div class="right">Brian Tracy</div></blockquote>
 
 <div class="newspaper3cols justify">
 
