@@ -21,17 +21,17 @@
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
   </head>
-  <body id="about">
-    <section class="container">
+  <body id="career-opportunities">
+<section class="container">
       <div class="content row">
         <section class="col-lg-12">
           <?php include "_/components/php/header.php" ?>
         </section><!-- header -->
-          <section class="main col col-lg-4">
-               <?php include "page_content/staff-content" ?>
+          <section class="main col col-lg-12">
 
-
-          </section><!-- sidebar -->
+          <?php include "page_content/staff-content.php" ?>
+          </section><!-- main -->
+          
       </div><!-- content -->
           <?php include "_/components/php/footer.php" ?>
     </section><!-- container -->
