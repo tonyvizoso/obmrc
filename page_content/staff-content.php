@@ -103,7 +103,7 @@ Office Manager<br>
 <img src="http://www.obmedresearch.com/images/staff/nailan_estrada.jpg" class="img-responsive-half" alt="Nailan Estrada">
 <figcaption>
 <p class="bold">Nailan Estrada, FMD, RMA.</p>
-<p>Coordinator Assistant, Lab Technician<br>
+<p>Coordinator Assistant,<br>Lab Technician<br>
 <a href="mailto:lab@obmedresearch.com">lab@obmedresearch.com</a></p>
 <p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
 </figcaption>
