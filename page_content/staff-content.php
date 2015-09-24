@@ -1,65 +1,4 @@
-<?php require_once("_/componetes/php/remote.php"); ?>
-<?php
-if (!function_exists("GetSQLValueString")) {
-function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
-{
-  if (PHP_VERSION < 6) {
-    $theValue = get_magic_quotes_gpc() ? stripslashes($theValue) : $theValue;
-  }
-
-  $theValue = function_exists("mysql_real_escape_string") ? mysql_real_escape_string($theValue) : mysql_escape_string($theValue);
-
-  switch ($theType) {
-    case "text":
-      $theValue = ($theValue != "") ? "'" . $theValue . "'" : "NULL";
-      break;    
-    case "long":
-    case "int":
-      $theValue = ($theValue != "") ? intval($theValue) : "NULL";
-      break;
-    case "double":
-      $theValue = ($theValue != "") ? doubleval($theValue) : "NULL";
-      break;
-    case "date":
-      $theValue = ($theValue != "") ? "'" . $theValue . "'" : "NULL";
-      break;
-    case "defined":
-      $theValue = ($theValue != "") ? $theDefinedValue : $theNotDefinedValue;
-      break;
-  }
-  return $theValue;
-}
-}
-
-mysql_select_db($database_remote, $remote);
-$query_staffRecordset = "SELECT * FROM staff ORDER BY id ASC";
-$staffRecordset = mysql_query($query_staffRecordset, $remote) or die(mysql_error());
-$row_staffRecordset = mysql_fetch_assoc($staffRecordset);
-$totalRows_staffRecordset = mysql_num_rows($staffRecordset);
-?><!--PHP MySQL connection here -->
-
 <div class="content row">
-
-<section class="col-lg-3 col-md-4 col-sm-6 col-xs-1">
-  <ul class="nospace clear">
-              <?php do { ?>
-                <li class="one_quarter">
-                  <div class="staff_container">
-                  <figure class="team-member"><img src="<?php echo $row_staffRecordset['image']; ?>" alt="<?php echo $row_staffRecordset['name']; ?>">
-                    <figcaption>
-                      <p class="team-name"><?php echo $row_staffRecordset['name']; ?> <?php echo $row_staffRecordset['suffix']; ?></p>
-                      <p class="team-title"><?php echo $row_staffRecordset['job-title']; ?>
-                      <br><a href="<?php echo $row_staffRecordset['email_link']; ?>"><?php echo $row_staffRecordset['email']; ?></a></p>
-                      <p class="team-title"><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
-                      
-                    </figcaption>
-                  </figure>
-                  </div>
-                </li>
-                <?php } while ($row_staffRecordset = mysql_fetch_assoc($staffRecordset)); ?>
-            </ul>
-
-</section>
 
 <section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
 <img src="http://www.obmedicalresearch.com/images/staff/yanet-r-ferrera.jpg" class="img-responsive-half" alt="Yanet R. Ferrera">
@@ -100,8 +39,135 @@ Director of Medical Research<br><a href="mailto:heberv@obmedresearch.com">heberv
 <p>Principal Investigator<br>
 Psychiatry Department <br>
 <a href="mailto:guarim@obmedresearch.com">guarim@obmedresearch.com</a></p>
-<p class="team-title"><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
 </figcaption>
 </section><!-- Guari Mascaro -->
+</div><!--FIRST Section-->
 
-</div>
+<div class="content row">
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/thomas-f-sevilla.jpg" class="img-responsive-half" alt="Thomas F. Sevilla">
+<figcaption>
+<p class="bold">Thomas F. Sevilla, PA.</p>
+<p>Subinvestigator<br>
+Research Department<br>
+<a href="mailto:thomasf@obmedresearch.com">thomasf@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption><!-- Thomas F. Sevilla -->
+</section>
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/yelamis-cartaya.jpg" class="img-responsive-half" alt="Yelamis Cartaya">
+<figcaption>
+<p class="bold">Yelamis Cartaya, RMA. CCRP.</p>
+<p>Senior Research Coordinator,<br>
+Office Manager<br>
+<a href="mailto:antoniot@obmedresearch.com">yelyc@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Yelamis Cartaya -->
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/alfredo-lagomasino.jpg" class="img-responsive-half" alt="Alfredo Lagomasino">
+<figcaption>
+<p class="bold">Alfredo Lagomasino, FMD. CRC.</p>
+<p>Clinical Research Coordinator<br>
+<a href="mailto:alfredol@obmedresearch.com">alfredol@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Alfredo Lagomasino -->
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedresearch.com/images/staff/carmen-jimenez.jpg" class="img-responsive-half" alt="Carmen Jimenez">
+<figcaption>
+<p class="bold">Carmen Jimenez, BA, LAc.</p>
+<p>Regulatory Specialist<br>
+<a href="mailto:regulatory@obmedresearch.com">regulatory@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Carmen Jimenez -->
+</div><!--SECOND Section-->
+
+<div class="content row">
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/malu-bienes.jpg" class="img-responsive-half" alt="Malu Bienes">
+<figcaption>
+<p class="bold">Malu Bienes, FMD.</p>
+<p>Coordinator Assistant<br>
+<a href="mailto:recruitment@obmedresearch.com">recruitment@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption><!-- Malu Bienes -->
+</section>
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedresearch.com/images/staff/nailan_estrada.jpg" class="img-responsive-half" alt="Nailan Estrada">
+<figcaption>
+<p class="bold">Nailan Estrada, FMD, RMA.</p>
+<p>Coordinator Assistant, Lab Technician<br>
+<a href="mailto:lab@obmedresearch.com">lab@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Nailan Estrada -->
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/ashley-rivera.jpg" class="img-responsive-half" alt="Juan Blanco">
+<figcaption>
+<p class="bold">Juan Blanco, FMD.</p>
+<p>Lab Technician<br>
+<a href="mailto:info@obmedresearch.com">info@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Juan Blanco -->
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/eudes_herrera.jpg" class="img-responsive-half" alt="Eudes Herrera">
+<figcaption>
+<p class="bold">Eudes Herrera</p>
+<p>EDC Specialist <br>
+<a href="mailto:edc@obmedresearch.com">edc@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Eudes Herrera -->
+</div><!--THIRD Section-->
+
+<div class="content row">
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/ashley-rivera.jpg" class="img-responsive-half" alt="Ashley C. Rivera">
+<figcaption>
+<p class="bold">Ashley C. Rivera</p>
+<p>Administrative Assistant <br>
+<a href="mailto:ashleyr@obmedresearch.com">ashleyr@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Ashley C. Herrera -->
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/tony-vizoso.jpg" class="img-responsive-half" alt="Tony Vizoso">
+<figcaption>
+<p class="bold">Tony Vizoso</p>
+<p>Public Relations & Marketing<br>
+<a href="mailto:tonyv@obmedresearch.com">tonyv@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption><!-- Tony Vizoso -->
+</section>
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://www.obmedicalresearch.com/images/staff/joli-martinez.jpg" class="img-responsive-half" alt="Joli Martinez">
+<figcaption>
+<p class="bold">Joli Martinez</p>
+<p>IT Director <br>
+<a href="mailto:it@obmedresearch.com">it@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Joli Martinez -->
+
+<section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">
+<img src="http://obmedicalresearch.com/images/staff/julio-mauri.jpg" class="img-responsive-half" alt="Julio Mauri">
+<figcaption>
+<p class="bold">Julio Mauri</p>
+<p>Environmental Attendant <br>
+<a href="mailto:info@obmedresearch.com">info@obmedresearch.com</a></p>
+<p><a href="mailto:info@obmedicalresearch.com">Request C.V.</a></p>
+</figcaption>
+</section><!-- Julio Mauri -->
+</div><!--FOURTH Section-->
