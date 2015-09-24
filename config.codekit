@@ -5217,6 +5217,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/staff\/obmrc-team.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 871508,
+		"inputAbbreviatedPath": "\/images\/staff\/obmrc-team.jpg",
+		"outputAbbreviatedPath": "\/images\/staff\/obmrc-team.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/staff\/thomas-f-sevilla.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

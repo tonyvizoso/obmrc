@@ -33,6 +33,11 @@
           </section><!-- main -->
           <section class="sidebar col col-lg-8">
             <?php include "page_content/ceo-content.php" ?>
+            <div class="padding"></div>
+            <img src="images/staff/obmrc-team.jpg" class="img-responsive" alt="Responsive image">
+            <figcaption class="center"><em>Ocean Blue Medical Research Center</em>'s team of dedicated professionals</figcaption>
+            <div class="padding"></div>
+
           </section><!-- sidebar -->
       </div><!-- content -->
           <?php include "_/components/php/footer.php" ?>

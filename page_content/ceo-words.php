@@ -1,6 +1,6 @@
 <h3 class="orange italic">A message from our CEO</h3>
 <figure class="padding">
-<img src="images/staff/yanet-r-ferrera_small.jpg">
+<img src="images/staff/yanet-r-ferrera_small.jpg" class="img-responsive-half center-block" alt="Responsive image">
 <figcaption class="center">Yanet R. Ferrera, CEO<br><em>Ocean Blue Medical Research Center</em></figcaption>
 </figure>
 <p>When we started to walk the long road to make <span class="bold">Ocean Blue Medical Research Center</span> a strong and trustful research facility, we knew that paving that route wasn't going to be an easy task.</p>
