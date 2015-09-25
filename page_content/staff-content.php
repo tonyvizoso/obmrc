@@ -1,3 +1,5 @@
+ <h4 class="orange bold uppercase">Our Staff</h4>
+
 <div class="content row">
 
 <section class="col-lg-3 col-md-4 col-sm-6 col-sx-1">

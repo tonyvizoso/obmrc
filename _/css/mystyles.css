@@ -123,6 +123,7 @@ a:active {text-decoration: none; color: #0082BE;}
 	margin-top: 2px;
 	margin-bottom: 2px;
 }
+.divider { margin-top: 2px; margin-bottom: 2px; }
 .padding {padding: 8px;}
 .img {padding:4px;}
 .img-responsive {width: 100%; height: auto; display: block;}
